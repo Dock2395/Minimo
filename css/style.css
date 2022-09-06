@@ -66,8 +66,8 @@ h1:hover{
 
 .home_info{
 	height: 509px;
-	/* background: #ffffff url("img/home_page.png") center center no-repeat ; */
-	background-image: url(img/homepage.png);
+	background: #ffffff urlurl(../img/homepage.png) center center no-repeat ;
+	background-image: ;
 	background-size: cover;
 	margin-bottom: 100px;
 }
